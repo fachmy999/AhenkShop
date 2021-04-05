@@ -1,0 +1,105 @@
+# Translation of Themes - Software Company in Indonesian
+# This file is distributed under the same license as the Themes - Software Company package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-02-13 02:05:10+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: id\n"
+"Project-Id-Version: Themes - Software Company\n"
+
+#. Theme Name of the theme
+msgid "Software Company"
+msgstr "Software Company"
+
+#: functions.php:264
+msgid "Software Company | Developed By "
+msgstr "Software Company | Dikembangkan Oleh"
+
+#. translators: 1: string, 2: preview url, 3: string
+#: functions.php:54
+msgid "Demo Link : "
+msgstr "Tautan Demo :"
+
+#: functions.php:39
+msgid "Demo & Documentation"
+msgstr "Demo & Dokumentasi"
+
+#. translators: 1: poweredby, 2: link, 3: span tag closed
+#: functions.php:269
+msgid "https://wordpress.org/"
+msgstr "https://id.wordpress.org/"
+
+#. translators: 1: poweredby, 2: link, 3: span tag closed
+#: functions.php:269
+msgid " %1$sPowered by %2$s%3$s"
+msgstr "%1$s Ditenagai oleh %2$s%3$s"
+
+#: functions.php:111
+msgid "Rara One Click Demo Import"
+msgstr "Rara One Click Demo Import"
+
+#: functions.php:111
+msgid "Plugin required"
+msgstr "Plugin diwajibkan"
+
+#: functions.php:108
+msgid "Download Demo Content"
+msgstr "Unduh Konten Demo"
+
+#. translators: 1: string, 2: url, 3: string
+#: functions.php:92 functions.php:108
+msgid "Click here"
+msgstr "Klik di sini"
+
+#: functions.php:80
+msgid "Demo Content Import"
+msgstr "Impor Konten Demo"
+
+#. translators: 1: string, 2: documentation url, 3: string
+#: functions.php:59
+msgid "Documentation Link : "
+msgstr "Tautan Dokumentasi :"
+
+#. translators: 1: string, 2: preview url, 3: string
+#. translators: 1: string, 2: documentation url, 3: string
+#: functions.php:54 functions.php:59
+msgid "Click here."
+msgstr "Klik di sini."
+
+#. Translators: If there are characters in your language that are not supported
+#. by Nunito fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:297
+msgctxt "Nunito font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Poppins fonts, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:290
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: 1: string, 2: url, 3: string
+#: functions.php:92
+msgid "Software Company comes with demo content import feature. You can import the demo content with just one click. For step-by-step video tutorial, "
+msgstr "Software Company hadir dengan fitur impor konten demo. Anda dapat mengimpor konten demo hanya dengan beberapa klik. Untuk langkah-demi-langkah-nya, lihat video tutorial,"
+
+#. Author URI of the theme
+msgid "https://rarathemes.com/"
+msgstr "https://rarathemes.com/"
+
+#. Author of the theme
+#: functions.php:265
+msgid "Rara Theme"
+msgstr "Rara Theme"
+
+#. Theme URI of the theme
+msgid "https://rarathemes.com/wordpress-themes/software-company/"
+msgstr "https://rarathemes.com/wordpress-themes/software-company/"
