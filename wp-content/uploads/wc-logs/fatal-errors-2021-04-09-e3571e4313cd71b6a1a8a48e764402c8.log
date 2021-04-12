@@ -1,0 +1,14 @@
+2021-04-09T09:26:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\wp-db.php on line 2056
+
+2021-04-09T09:26:51+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\Features\Onboarding.php on line 582
+
+2021-04-09T10:16:22+00:00 CRITICAL Uncaught Exception: {"error_code":"INVALID_API_KEY","description":"-","code":"100009","message":["Please include your API key as an Authorization header."]} in C:\xampp\htdocs\wordpress\wp-content\plugins\woo-xendit-virtual-accounts\libs\class-wc-xendit-api.php:615
+Stack trace:
+#0 C:\xampp\htdocs\wordpress\wp-content\plugins\woo-xendit-virtual-accounts\libs\cronjob\wc-cron-xendit-site-data.php(81): WC_Xendit_PG_API->createPluginInfo(Array)
+#1 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(287): WC_Cron_Xendit_Site_data->xendit_site_data_wp_exec()
+#2 C:\xampp\htdocs\wordpress\wp-includes\class-wp-hook.php(311): WP_Hook->apply_filters('', Array)
+#3 C:\xampp\htdocs\wordpress\wp-includes\plugin.php(551): WP_Hook->do_action(Array)
+#4 C:\xampp\htdocs\wordpress\wp-cron.php(138): do_action_ref_array('xendit_site_dat...', Array)
+#5 {main}
+  thrown in C:\xampp\htdocs\wordpress\wp-content\plugins\woo-xendit-virtual-accounts\libs\class-wc-xendit-api.php on line 615
+
